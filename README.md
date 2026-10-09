@@ -3,26 +3,27 @@
 
 ### B.Tech Biotechnology Student | Exploring Genetics & Genomics 
 
-Welcome to my GitHub profile! I am a first-year B.Tech Biotechnology student at Lovely Professional University, interested in Genetics, Genomics, Molecular Biology, and emerging technologies in biotechnology.
+Welcome to my GitHub profile! I am a first-year B.Tech Biotechnology student at Lovely Professional University, interested in Genetics,Molecular Biology, and emerging AI technologies in biotechnology.
 
 ## 🧑‍🔬 About Me
 
 I am a first year B.Tech Biotechnology student currently building my foundation in biotechnology through academic learning, laboratory work, projects, and practical activities.
 
-**What I'm Exploring**:
+**Areas I'm Exploring**:
 - Genetics and Genomics
 - Molecular Biology
 - Biotechnology
 - Computational and interdisciplinary approaches in life sciences
 - Emerging technologies in biotechnology and healthcare
 
-**What I'm developing**:
+**Skills I'm developing**:
 -Scientific knowledge and problem solving 
 -communication and presentation skills 
 -Teamwork and project experience 
 -Technical and computational skills 
 
-I am curious on how biology and technology can come together to solve real world problems,and I'm gradually exploring the areas that I may pursue in my future career.
+**Sum Up**
+I am curious on how biology and technology can work together to solve real world problems,and I'm gradually exploring the areas that I may pursue in my future career.
 
 ## 🎓 Education
 
@@ -50,21 +51,17 @@ I am particularly interested in building a future career in:
 ## 🛠️ Skills
 
 **Hard Skills**
--Cell biology [###---]
--Genetics[#-----] 
+-Cell biology 
+-Genetics 
 
 **Laboratory Skills**
--Thin layer Chromatography[##----]
--Titration techniques[###---]
-
-**Programming  skills**
--C++[------]
--Python[------]
+-Thin layer Chromatography
+-Titration techniques
 
 **Soft Skills**
--Public speaking[#####-]
--Communication and presentation skills[###---]
--Teamwork[##----]
+-Public speaking
+-Communication and presentation skills
+-Teamwork
 
 ## Ongoing Project
 
