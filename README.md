@@ -77,7 +77,7 @@ Exploring opportunities in Genetics and Genomics and develop the scientific and 
 
 ## 🔗 Connect With Me
 
-- [LinkedIn](HEREhttps://www.linkedin.com/in/sunidhi-chander-188b8b414/)
+- [LinkedIn](https://www.linkedin.com/in/sunidhi-chander-188b8b414/)
 
 ---
 
