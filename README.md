@@ -57,30 +57,35 @@ I am particularly interested in building a future career in:
 **Scientific knowledge**
 - Cell biology -Foundational knowledge
 - Genetics-Foundational knowledge
-- Molecular biology-Academic learning
 
-**Laboratory Skills from academic laboratory practical**
-- Thin layer Chromatography
-- Titration techniques
+**Laboratory Skills**
+- Thin layer chromatography
+- Titration techniques 
 
-**Soft Skills**
+**Soft skills**
+- Communication 
 - Public speaking
-- Communication and presentation
-- Teamwork
-  
-## Ongoing Project
+- Presentation
+- Teamwork 
 
-### Smart Compost Bin - In Progress
-A team project focusing on building a compost bin that provides optimum conditions for compost making from both wet and dry waste and also assists in monitoring the progress.
+## Ongoing Project
+**Smart compost bin**
+
+A team-based academic project focused on developing a smart composting system to monitor compost conditions and help users identify when the bin requires attention.
+
+**Project Focus:**
+- Exploring sensors to monitor compost conditions.
+- Investigating ways to make composting more efficient and user-friendly.
+- Developing a practical solution through teamwork and interdisciplinary learning.
+
+**Status- In progress
 
 ## Working on:
 
-Exploring opportunities in Genetics and Genomics and develop the scientific and computational skill .
+Currently exploring opportunities in Genetics and Genomics while strengthening my scientific knowledge and developing my understanding of biotechnology.
+
 
 ## 🔗 Connect With Me
-
 - [LinkedIn](https://www.linkedin.com/in/sunidhi-chander-188b8b414/)
-
----
 
 *This profile represents my learning journey and exploration as a biotechnology student.*
