@@ -24,11 +24,13 @@ I am a first year B.Tech Biotechnology student currently building my foundation 
 - Technical and computational skills
 
 **Sum Up**
+
 I am curious on how biology and technology can work together to solve real world problems,and I'm gradually exploring the areas that I may pursue in my future career.
 
 ## 🎓 Education
 
 **Lovely Professional University**
+
 B.Tech Biotechnology | 2026-2030
 
 **Eklavya School**
@@ -51,21 +53,21 @@ I am particularly interested in building a future career in:
 - Computational Biology
 - Biotechnology Research
 
-## 🛠️ Skills
+## Skills
+**Scientific knowledge**
+- Cell biology -Foundational knowledge
+- Genetics-Foundational knowledge
+- Molecular biology-Academic learning
 
-**Hard Skills**
--Cell biology 
--Genetics 
-
-**Laboratory Skills**
--Thin layer Chromatography
--Titration techniques
+**Laboratory Skills from academic laboratory practical**
+- Thin layer Chromatography
+- Titration techniques
 
 **Soft Skills**
--Public speaking
--Communication and presentation skills
--Teamwork
-
+- Public speaking
+- Communication and presentation
+- Teamwork
+  
 ## Ongoing Project
 
 ### Smart Compost Bin - In Progress
