@@ -81,4 +81,4 @@ Exploring opportunities in Genetics and Genomics and develop the scientific and 
 
 ---
 
-*This profile represents my learning journey and Exploration as a biotechnology student.*
+*This profile represents my learning journey and exploration as a biotechnology student.*
