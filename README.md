@@ -17,13 +17,11 @@ I am a first year B.Tech Biotechnology student currently building my foundation 
 - Emerging technologies in biotechnology and healthcare
 
 **Skills I'm developing**:
--Scientific knowledge and problem solving 
-
--communication and presentation skills 
-
--Teamwork and project experience 
-
--Technical and computational skills 
+- Scientific knowledge and problem
+  solving 
+- Communication and presentation skills
+- Teamwork and project experience
+- Technical and computational skills
 
 **Sum Up**
 I am curious on how biology and technology can work together to solve real world problems,and I'm gradually exploring the areas that I may pursue in my future career.
@@ -34,10 +32,12 @@ I am curious on how biology and technology can work together to solve real world
 B.Tech Biotechnology | 2026-2030
 
 **Eklavya School**
+
 Class 12|CBSE|2026 
 Punjab ,India 
 
 **St. Jude's Convent School**
+
 Class 10|ICSE|2024
 Punjab,India 
 
