@@ -18,8 +18,11 @@ I am a first year B.Tech Biotechnology student currently building my foundation 
 
 **Skills I'm developing**:
 -Scientific knowledge and problem solving 
+
 -communication and presentation skills 
+
 -Teamwork and project experience 
+
 -Technical and computational skills 
 
 **Sum Up**
