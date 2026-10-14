@@ -3,7 +3,7 @@
 
 ### B.Tech Biotechnology Student | Exploring Genetics & Genomics 
 
-Welcome to my GitHub profile! I am a first-year B.Tech Biotechnology student at Lovely Professional University, interested in Genetics,Molecular Biology, and emerging AI technologies in biotechnology.
+Welcome to my GitHub profile! I am a first-year B.Tech Biotechnology student at Lovely Professional University, interested in Genetics ,Molecular Biology, and emerging AI technologies in biotechnology.
 
 ## 🧑‍🔬 About Me
 
@@ -35,12 +35,12 @@ B.Tech Biotechnology | 2026-2030
 
 **Eklavya School**
 
-Class 12|CBSE|2026 
+Class 12 | CBSE | 2026 
 Punjab ,India 
 
 **St. Jude's Convent School**
 
-Class 10|ICSE|2024
+Class 10 | ICSE | 2024
 Punjab,India 
 
 ## 🏔️ Career Interests
@@ -59,13 +59,13 @@ I am particularly interested in building a future career in:
 - Genetics-Foundational knowledge
 
 **Laboratory Skills**
-- Thin layer chromatography
+- Thin layer chromatography(TLC) 
 - Titration techniques 
 
 **Soft skills**
 - Communication 
 - Public speaking
-- Presentation
+- Presentation skills
 - Teamwork 
 
 ## Ongoing Project
@@ -75,10 +75,13 @@ A team-based academic project focused on developing a smart composting system to
 
 **Project Focus:**
 - Exploring sensors to monitor compost conditions.
-- Investigating ways to make composting more efficient and user-friendly.
+- Exploring ways to make composting more efficient and user-friendly.
 - Developing a practical solution through teamwork and interdisciplinary learning.
 
-**Status- In progress
+**Current stage** 
+Exploring suitable sensors and planning the design.
+
+**Status: In progress
 
 ## Working on:
 
